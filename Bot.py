@@ -4,7 +4,7 @@ from aiogram.filters import Command
 import asyncio
 
 API_TOKEN = "7847861512:AAEShfuvEJrf-eXLk7-17PT9N-LVbdooA_8"
-CHANNELS = ["@Test213121312", "@Test313121312", "@Test413121312"]
+CHANNELS = ["@INFOpuls247", "@UA_Live24I7", "@Kyivofficial24l7", "@AirmapsofUkraine", "@special_new_s"]
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
